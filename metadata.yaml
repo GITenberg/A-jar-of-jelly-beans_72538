@@ -1,0 +1,26 @@
+_repo: A-jar-of-jelly-beans_72538
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gregory, Franklin
+    gutenberg_agent_id: '56723'
+    url: http://www.gutenberg.org/2009/agents/56723
+description: ''
+gutenberg_issued: '2023-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72538'
+language: en
+pgterms:marc905: 20231212104358gregory
+pgterms:marc906: '1960'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1960.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A jar of jelly beans
+url: http://www.gutenberg.org/ebooks/72538
